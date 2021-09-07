@@ -8,24 +8,27 @@
   <img src="https://gpvc.arturio.dev/RondonLeonR" />
 </p>
 
+<h1></h1>
+<br>
+
+### Languages and Tools :raised_hands::
+
+<div>
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
+  <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg' alt='typescript' height='40'>
+</div>
+
+</br>
 
 ### Contact:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png" />][linkedin]
 
 </br>
 
-### Languages and Tools:
-
-<div>
-  <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
-  <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg' alt='typescript' height='40'>
-</div>
-
-</br>
-
-### Info:
+### Info :call_me_hand: :
 <p align="center">
   <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=RondonLeonR&show_icons=true&theme=tokyonight" />
   <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RondonLeonR&layout=compact&theme=tokyonight" />
