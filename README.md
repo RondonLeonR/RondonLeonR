@@ -13,7 +13,7 @@
 ### Languages and Tools :raised_hands:
 
 <div>
-  [<img src="https://img.icons8.com/color/48/000000/angularjs.png" />](https://angular.io/)
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png" href="https://angular.io/"/>
   <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/ionic/ionic-original.svg"/>
@@ -30,6 +30,7 @@
 
 ### Contact :iphone:
 [<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png" />][linkedin]
+<br>
 
 <h1></h1>
 
@@ -43,4 +44,3 @@
 </p>
 
 [linkedin]: https://www.linkedin.com/in/rodolfo-rondon-leon-9665251a1/
-[angular]: https://angular.io/
