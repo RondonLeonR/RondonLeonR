@@ -1,7 +1,7 @@
 <h2 style="text-align:center">Hi there, I'm Rodolfo 👋</h2>
 
 <p align="center">
-  <img width="300px" heigth="300px" src="https://camo.githubusercontent.com/e220312fa9d2fc06c614f678b1e628bd867d9f5780bcac14afc2dbe0494f9132/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a557263323873626e4f52474f57356f796f68513036672e676966" />
+  <img width="400px" heigth="400px" src="https://camo.githubusercontent.com/e220312fa9d2fc06c614f678b1e628bd867d9f5780bcac14afc2dbe0494f9132/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a557263323873626e4f52474f57356f796f68513036672e676966" />
 </p>
 
 <p align="center">
@@ -16,8 +16,10 @@
 
 ### Languages and Tools:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angular.svg' alt='angular' height='40'>](https://angular.io/)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg' alt='typescript' height='40'>](https://www.typescriptlang.org/)  
+<div>
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angular.svg' alt='angular' height='40'>
+  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg' alt='typescript' height='40'>
+</div>
 
 </br>
 
