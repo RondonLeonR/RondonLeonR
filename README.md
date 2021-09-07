@@ -9,6 +9,9 @@
 
 ### Languages and Tools:
 
+<img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+<img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
+
 </br>
 
 ### Info:
