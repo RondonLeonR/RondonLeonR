@@ -37,7 +37,7 @@
 
 ### Info :call_me_hand:
 <p align="center">
-<a><img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=RondonLeonR&show_icons=true&theme=merko" /></a>
+<a><img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=RondonLeonR&show_icons=true&theme=radical" /></a>
 <a><img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RondonLeonR&layout=compact&theme=radical" /></a>
 </p>
 <br>  
