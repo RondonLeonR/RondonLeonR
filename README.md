@@ -7,7 +7,7 @@
 </br>
 
 ### Info:
-<img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=RondonLeonR&show_icons=true&theme=gruvbox" />
+<img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=RondonLeonR&show_icons=true&theme=tokyonight" />
 
 
 
