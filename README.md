@@ -17,7 +17,7 @@
   <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
   <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/ionic.png"/>
+  <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/ionic/ionic-original.svg"/>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
