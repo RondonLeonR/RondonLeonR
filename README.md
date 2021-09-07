@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="(https://gpvc.arturio.dev/RondonLeonR" />
+  <img src="https://gpvc.arturio.dev/RondonLeonR" />
 </p>
 
 
@@ -22,8 +22,12 @@
 </br>
 
 ### Info:
-<img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=RondonLeonR&show_icons=true&theme=tokyonight" />
-<img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RondonLeonR&layout=compact&theme=tokyonight" />
-<img align="center" alt="Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=RondonLeonR" />
+<p align="center">
+  <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=RondonLeonR&show_icons=true&theme=tokyonight" />
+  <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RondonLeonR&layout=compact&theme=tokyonight" />
+</p>
+<p align="center">
+  <img align="center" alt="Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=RondonLeonR" />
+</p>
 
 [linkedin]: https://www.linkedin.com/in/rodolfo-rondon-leon-9665251a1/
