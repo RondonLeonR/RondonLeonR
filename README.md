@@ -23,7 +23,7 @@
   <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
   <img src="https://img.icons8.com/color/48/000000/npm.png"/>
   <img src="https://img.icons8.com/officexs/50/000000/php-logo.png"/>
-  <img width="45px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">
+  <img width="40px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">
   <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
 </div>
 
