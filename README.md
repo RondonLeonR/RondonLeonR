@@ -17,7 +17,9 @@
 ### Languages and Tools:
 
 <div>
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/angular.svg' alt='angular' height='40'>
+  <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
+  <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/typescript.svg' alt='typescript' height='40'>
 </div>
 
