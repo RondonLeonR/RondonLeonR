@@ -11,7 +11,7 @@
 <h1></h1>
 <br>
 
-### Languages and Tools :raised_hands::
+### Languages and Tools :raised_hands:
 
 <div>
   <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
@@ -23,12 +23,12 @@
 
 </br>
 
-### Contact:
+### Contact :iphone:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png" />][linkedin]
 
 </br>
 
-### Info :call_me_hand: :
+### Info :call_me_hand:
 <p align="center">
   <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=RondonLeonR&show_icons=true&theme=tokyonight" />
   <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RondonLeonR&layout=compact&theme=tokyonight" />
