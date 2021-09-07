@@ -33,12 +33,12 @@
 <br>
 
 <h1></h1>
+<br>
 
 ### Info :call_me_hand:
-<p align="center">
-  <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=RondonLeonR&show_icons=true&theme=tokyonight" />
-  <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RondonLeonR&layout=compact&theme=tokyonight" />
-</p>
+<a><img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=RondonLeonR&show_icons=true&theme=tokyonight" /></a>
+<a><img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RondonLeonR&layout=compact&theme=tokyonight" /></a>
+<br>  
 <p align="center">
   <img align="center" alt="Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=RondonLeonR" />
 </p>
