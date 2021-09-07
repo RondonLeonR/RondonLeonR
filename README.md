@@ -36,8 +36,10 @@
 <br>
 
 ### Info :call_me_hand:
+<p align="center">
 <a><img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=RondonLeonR&show_icons=true&theme=tokyonight" /></a>
 <a><img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RondonLeonR&layout=compact&theme=tokyonight" /></a>
+</p>
 <br>  
 <p align="center">
   <img align="center" alt="Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=RondonLeonR" />
