@@ -1,5 +1,5 @@
 <p align="center">
-  ### Hi there, I'm Rodolfo 👋
+  <h2>Hi there, I'm Rodolfo 👋</h2>
 </p>
 
 <p align="center">
@@ -10,10 +10,6 @@
   <img src="https://gpvc.arturio.dev/RondonLeonR" />
 </p>
 
-<p align="center">
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-</p>
 
 ### Contact:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png" />][linkedin]
