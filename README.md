@@ -42,7 +42,7 @@
 </p>
 <br>  
 <p align="center">
-  <img align="center" alt="Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=RondonLeonR" />
+  <img align="center" alt="Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=RondonLeonR&theme=radical" />
 </p>
 
 [linkedin]: https://www.linkedin.com/in/rodolfo-rondon-leon-9665251a1/
