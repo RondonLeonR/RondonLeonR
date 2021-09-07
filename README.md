@@ -37,8 +37,8 @@
 
 ### Info :call_me_hand:
 <p align="center">
-<a><img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=RondonLeonR&show_icons=true&theme=dracula" /></a>
-<a><img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RondonLeonR&layout=compact&theme=highcontrast" /></a>
+<a><img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=RondonLeonR&show_icons=true&theme=synthwave" /></a>
+<a><img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RondonLeonR&layout=compact&theme=cobalt" /></a>
 </p>
 <br>  
 <p align="center">
