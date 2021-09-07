@@ -9,12 +9,11 @@
 </p>
 
 <h1></h1>
-<br>
 
 ### Languages and Tools :raised_hands:
 
 <div>
-  <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
+  [<img src="https://img.icons8.com/color/48/000000/angularjs.png"/>][angular]
   <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/ionic/ionic-original.svg"/>
@@ -27,12 +26,12 @@
   <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
 </div>
 
-</br>
+<h1></h1>
 
 ### Contact :iphone:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png" />][linkedin]
 
-</br>
+<h1></h1>
 
 ### Info :call_me_hand:
 <p align="center">
@@ -44,3 +43,4 @@
 </p>
 
 [linkedin]: https://www.linkedin.com/in/rodolfo-rondon-leon-9665251a1/
+[angular]: https://angular.io/
