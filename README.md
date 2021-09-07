@@ -17,12 +17,13 @@
   <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
   <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-  <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/ionic/ionic-original.svg"/>
+  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/ionic/ionic-original.svg"/>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
   <img src="https://img.icons8.com/color/48/000000/npm.png"/>
   <img src="https://img.icons8.com/officexs/50/000000/php-logo.png"/>
+  <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png">
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
   <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>
 </div>
