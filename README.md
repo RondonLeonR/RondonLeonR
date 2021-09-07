@@ -1,6 +1,6 @@
 ### Hi there, I'm Rodolfo 👋
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://www.flaticon.es/icono-gratis/linkedin_174857" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png" />][linkedin]
 
 
 ### Languages and Tools:
