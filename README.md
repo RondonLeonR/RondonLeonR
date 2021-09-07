@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Rodolfo 👋
+
+### Languages and Tools:
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/8">]
 
 <!--
 **RondonLeonR/RondonLeonR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
