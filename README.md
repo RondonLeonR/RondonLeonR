@@ -13,7 +13,7 @@
 ### Languages and Tools :raised_hands:
 
 <div>
-  <img src="https://img.icons8.com/color/48/000000/angularjs.png" href="https://angular.io/"/>
+  <a href="https://angular.io/"><img src="https://img.icons8.com/color/48/000000/angularjs.png"/></a>
   <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/ionic/ionic-original.svg"/>
