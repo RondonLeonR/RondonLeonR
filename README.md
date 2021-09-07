@@ -37,8 +37,8 @@
 
 ### Info :call_me_hand:
 <p align="center">
-<a><img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=RondonLeonR&show_icons=true&theme=tokyonight" /></a>
-<a><img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RondonLeonR&layout=compact&theme=tokyonight" /></a>
+<a><img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=RondonLeonR&show_icons=true&theme=dracula" /></a>
+<a><img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RondonLeonR&layout=compact&theme=highcontrast" /></a>
 </p>
 <br>  
 <p align="center">
@@ -46,3 +46,5 @@
 </p>
 
 [linkedin]: https://www.linkedin.com/in/rodolfo-rondon-leon-9665251a1/
+
+<!--tokyonight-->
